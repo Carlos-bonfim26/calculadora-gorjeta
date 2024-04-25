@@ -1,0 +1,1 @@
+Simplifique o cálculo de gorjetas com nossa calculadora interativa em HTML, CSS e JavaScript. Insira o valor da conta, escolha a porcentagem de gorjeta e obtenha o total instantaneamente. Uma solução rápida e fácil para suas saídas para comer fora! 🍽️
